@@ -1,7 +1,7 @@
 {
   "name": "twitch",
   "version": "1.0.0",
-  "description": "Streaming Platform",
+  "description": "Best streaming platform in the world",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
